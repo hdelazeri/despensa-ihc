@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Leite Integral",
+    "quantity": 5,
+    "image": "https://picsum.photos/500"
+  },
+  {
+    "id": 2,
+    "name": "Café Solúvel",
+    "quantity": 3,
+    "image": "https://picsum.photos/500"
+  }
+]
